@@ -1,0 +1,7 @@
+20-30 Sec Video Script Template
+
+[0-5s Hook]: [News graphic/clip] 'Latest on [topic]: [key fact].'
+
+[5-20s Insight]: [Your face] 'This exposes [gap from theme]. At Quest, [solution like ADPF]. Strong foundations win.'
+
+[20-30s CTA]: 'Build trust at scale. Link in bio. #DataGovernance'
